@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Single-page-frontend-project/static/css/main.8c33bff5.chunk.css",
+    "main.js": "/Single-page-frontend-project/static/js/main.65394aaa.chunk.js",
+    "main.js.map": "/Single-page-frontend-project/static/js/main.65394aaa.chunk.js.map",
+    "runtime-main.js": "/Single-page-frontend-project/static/js/runtime-main.85e9ad5b.js",
+    "runtime-main.js.map": "/Single-page-frontend-project/static/js/runtime-main.85e9ad5b.js.map",
+    "static/css/2.c490997a.chunk.css": "/Single-page-frontend-project/static/css/2.c490997a.chunk.css",
+    "static/js/2.918ec3a7.chunk.js": "/Single-page-frontend-project/static/js/2.918ec3a7.chunk.js",
+    "static/js/2.918ec3a7.chunk.js.map": "/Single-page-frontend-project/static/js/2.918ec3a7.chunk.js.map",
+    "index.html": "/Single-page-frontend-project/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/Single-page-frontend-project/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.8c33bff5.chunk.css.map": "/Single-page-frontend-project/static/css/main.8c33bff5.chunk.css.map",
+    "static/js/2.918ec3a7.chunk.js.LICENSE.txt": "/Single-page-frontend-project/static/js/2.918ec3a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85e9ad5b.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.918ec3a7.chunk.js",
+    "static/css/main.8c33bff5.chunk.css",
+    "static/js/main.65394aaa.chunk.js"
+  ]
+}
